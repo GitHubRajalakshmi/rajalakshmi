@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Rajalakshmi | QA Automation Tester</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 40px;
+      background: #ffffff;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1 {
+      margin-bottom: 5px;
+    }
+    h2 {
+      margin-top: 40px;
+      color: #2c3e50;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Rajalakshmi</h1>
+  <p><strong>QA & Automation Test Engineer</strong></p>
+
+  <h2>About Me</h2>
+  <p>
+    Detail-oriented QA and Automation Tester with experience in web and mobile application testing.
+    Skilled in designing test cases, building automation frameworks, and working in Agile environments
+    to ensure high-quality software delivery.
+  </p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li><strong>Testing:</strong> Manual Testing, Automation Testing, Regression, Smoke, Sanity</li>
+    <li><strong>Automation:</strong> Selenium WebDriver, Playwright, Appium</li>
+    <li><strong>Languages & Frameworks:</strong> Java, TestNG, Cucumber (BDD), Maven</li>
+    <li><strong>Tools:</strong> Git, GitHub, JIRA, Jenkins, Postman</li>
+  </ul>
+
+  <h2>Projects</h2>
+  <p><strong>Hybrid Automation Framework</strong></p>
+  <ul>
+    <li>Implemented Page Object Model</li>
+    <li>Integrated Data-Driven Testing</li>
+    <li>Used Cucumber BDD with TestNG</li>
+  </ul>
+
+  <p><strong>Mobile Automation Testing</strong></p>
+  <ul>
+    <li>Automated Android applications using Appium</li>
+    <li>Validated UI and functional workflows</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email: yourname@email.com</p>
+  <p>LinkedIn: linkedin.com/in/yourprofile</p>
+  <p>GitHub: github.com/yourusername</p>
+
+  <footer>
+    © 2026 Rajalakshmi · QA Automation Tester
+  </footer>
+
+</body>
+</html>
